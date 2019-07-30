@@ -1,0 +1,62 @@
+nav li a{
+	text-transform: uppercase;
+}
+#menu ul li a{
+	color: #000;
+	font-weight: bold;
+}
+body{
+	background-image:url('../images/bg.jpg') !important;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+p.card-text{
+	font-size: 16pt;
+	color: green;
+	font-weight: bolder;
+}
+#comprar{
+	width: 100%;
+	height: 40px;
+	border-radius: 25px;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+}
+a#comprar2{
+	height: 40px;
+	border-radius: 25px;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+}
+h1{
+	color: white;
+}
+div.info{
+	color: white;
+	font-size: 16pt;
+}
+div.desc{
+	padding-bottom: 200px;
+}
+.desc h3{
+	font-size: 14pt;
+}
+div.info-img{
+	background-image:url('../images/ceu.jpg') !important;
+}
+.card img{
+	height: 215px;
+}
+table td{
+	font-weight: bolder;
+	font-size: 12pt;
+}
+p{
+	color:white;
+	font-size: 12pt;
+	/* text-align: justify; */
+}
